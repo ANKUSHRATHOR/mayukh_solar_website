@@ -1,0 +1,4 @@
+# Standalone project — no monorepo inheritance.
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
